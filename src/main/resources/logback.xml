@@ -7,9 +7,9 @@
         </encoder>
     </appender>
 
-    <logger level="${INPERTIO_LOGGER_LEVEL:-INFO}" name="org.inpertio"/>
+    <logger level="${LOG_LEVEL_APP:-INFO}" name="org.inpertio"/>
 
-    <root level="${ROOT_LOGGER_LEVEL:-INFO}">
+    <root level="${LOG_LEVEL_DEFAULT:-INFO}">
         <appender-ref ref="STDOUT"/>
     </root>
 
