@@ -1,4 +1,4 @@
-![jvm](https://github.com/inpertio/server/workflows/ci/badge.svg)
+![ci](https://github.com/inpertio/server/workflows/ci/badge.svg)
 
 ## Table of Contents
 
