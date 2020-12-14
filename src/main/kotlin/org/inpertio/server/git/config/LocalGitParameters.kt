@@ -34,6 +34,6 @@ class LocalGitParameters(
     }
 
     private object Parameter {
-        const val LOCAL_ROOT = "local.data.root.path"
+        const val LOCAL_ROOT = "INPERTIO_LOCAL_DATA_ROOT_PATH"
     }
 }

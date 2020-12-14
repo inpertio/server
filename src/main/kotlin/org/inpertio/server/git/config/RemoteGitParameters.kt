@@ -15,6 +15,6 @@ data class RemoteGitParameters(@Value("\${${Parameter.URI}:}") val uri: String) 
     }
 
     private object Parameter {
-        const val URI = "remote.repo.uri"
+        const val URI = "INPERTIO_CONFIG_REPO_URI"
     }
 }

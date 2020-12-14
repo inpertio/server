@@ -18,3 +18,9 @@ dependencies {
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4")
     implementation("org.eclipse.jgit:org.eclipse.jgit:5.9.0.202009080501-r")
 }
+
+tasks {
+    bootJar {
+        archiveFileName.set("${project.name}.jar")
+    }
+}
