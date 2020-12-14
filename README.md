@@ -1,3 +1,5 @@
+![jvm](https://github.com/inpertio/server/workflows/jvm/badge.svg)
+
 ## Table of Contents
 
 * [1. Overview](#1-overview)
