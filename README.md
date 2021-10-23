@@ -35,7 +35,7 @@
 
 This service allows to expose Git repository content via HTTP(S) for further consumption by end applications.
 
-![high-level](../site/img/high-level-view.png)
+![high-level](../site/img/high-level-view.png?raw=true)
  
 It can be used from any programming language, however a [number of built-in clients are also provided](../client).
 
